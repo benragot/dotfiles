@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = br.ragot@gmail.com
+	name = Benjamin Ragot
